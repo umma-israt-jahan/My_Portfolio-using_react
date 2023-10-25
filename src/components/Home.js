@@ -15,7 +15,7 @@ export default function Home() {
                     I'm a frontend Developer
                 </h2>
                 <p className='text-gray-500 py-4 max-w-md'>
-                    I have 4 month experience building and desiging software.
+                    I have  7 month experience building and desiging software.
                     Currently, I love to work on web application using technology like
                     Java Script,React js,Tailwind.
                 </p>

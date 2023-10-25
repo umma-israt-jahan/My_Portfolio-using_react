@@ -20,7 +20,7 @@ export default function Portfolio() {
               {
                 id: 2,
                 src: colorSearch,
-                projectUrl: 'https://example.com/color-search-demo', // Add your project URL
+                projectUrl: 'https://color-fieldwith-reactjs.netlify.app/', // Add your project URL
               },
               {
                 id: 3,
@@ -65,7 +65,7 @@ export default function Portfolio() {
                 <div className='flex items-center justify-center'>
                   {/* <Link to={projectUrl}> */}
                     <button className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105'>
-                    <a href='#'><i className='bx bx-link-external'></i></a>
+                    
                     Demo</button>
                   {/* </Link> */}
                   <button className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105'>Code</button>
