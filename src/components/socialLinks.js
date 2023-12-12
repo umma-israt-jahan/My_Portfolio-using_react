@@ -43,7 +43,7 @@ export default function SocialLinks() {
               Resume<BsFillPersonLinesFill size={30}/>
             </>
       ),
-      href:'/CV of Umma israt jahan.pdf',
+      href:'/Umme_Israt_Jahan(CV).pdf',
       style:'rounded-br-md',
       download:true,
     },
